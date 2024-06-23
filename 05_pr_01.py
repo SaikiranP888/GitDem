@@ -15,5 +15,6 @@ m1 = maximum(3, 5, 2)
 print("The maximum number is " + str(m1))
 print("You are doing well")
 print("All is  well")
+print("Agree with changes")
     
     
