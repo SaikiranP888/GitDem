@@ -9,8 +9,9 @@ def maximum(num1, num2, num3):
             return num2
         else:
             return num3
+        
 
-m = maximum(3, 5, 2)
-print("The maximum number is " + str(m))
+m1 = maximum(3, 5, 2)
+print("The maximum number is " + str(m1))
     
     
